@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# waa-lab12-client
+
+Create a application which has CRUD operations on Product (id, title, price, quantity).
+
+This application is divided into client side and server side.
+
+Server Side: Using Spring Boot - Restful application
+
+Client Side: Using React (React Router, Axios, etc): make sure you have proper routers for different operations.
